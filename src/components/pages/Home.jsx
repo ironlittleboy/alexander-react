@@ -11,7 +11,7 @@ const Home = () => {
       <div className="container-text">
         <h1>Gestion de inventario de la ULEAM</h1>
         <button onClick={handleClick}>Iniciar sesion o registrarse</button>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt maiores dicta quae dolorem doloribus, provident delectus nobis odit vel autem ducimus soluta qui tempora nostrum animi accusantium architecto quaerat consequatur.</p>
+        <p>El inventario de equipos informáticos de la Universidad Laica Eloy Alfaro de Manabí es una detallada lista que registra todos los equipos tecnológicos utilizados en la institución. Este inventario incluye computadoras de escritorio, laptops, impresoras, proyectores, servidores, routers, switches, entre otros dispositivos utilizados para apoyar las actividades académicas y administrativas de la universidad.</p>
       </div>
     </div>
   );
